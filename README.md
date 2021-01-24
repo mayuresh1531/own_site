@@ -1,2 +1,2 @@
 # own_site
-https://prathameshdhage.rf.gd
+http://prathameshdhage.rf.gd
